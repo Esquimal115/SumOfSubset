@@ -1,5 +1,5 @@
 # SumOfSubset
-Java program that resolve the Sum of Subsets problem usig Backtracking. 
+Java program that resolve the Sum of Subsets problem using Backtracking. 
 For execute the program go to "Test" folder, open the terminal and write
 java -jar sum.jar test1.jar
 
