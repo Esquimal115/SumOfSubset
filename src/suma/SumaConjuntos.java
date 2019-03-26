@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author Javier Martinez Coll
+ * 
  */
 public class SumaConjuntos {
 
